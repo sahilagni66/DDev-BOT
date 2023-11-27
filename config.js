@@ -23,7 +23,7 @@ global.BotName = "FELIX";
 global.packname = "Felix";  //Do not change.
 global.author = "𝙱𝚈 Felix۝⃟̥̩̩̩̥̩";   //Do not change.
 global.BotSourceCode = "https://github.com/DARK-DEVIL-BOTZ/DDev-BOT";  //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/BTKOSMiFo3lCE4de6OhvGP"; 
+global.SupportGroupLink = "https://chat.whatsapp.com/KMb2QltYVIuEMF93Kvbtco"; 
 
 
 //global.sessionName = "session";
